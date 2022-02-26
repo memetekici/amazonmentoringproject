@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="1.567">
+    <testcase classname="US03" name="Kullanıcı ALL menusunden herhangi bir kategori seçebilmeli ve alt kategorilerin listelendiğini görebilmeli" time="0.443">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given Kullanıcı www.amazon.com sayfasına gider..............................undefined
+And Kullanıcı All kategorisine tıklar.......................................skipped
+And Kullanıcı "Computer" menusunu seçer.....................................skipped
+Then Kullanıcı 15 kategori olduğunu assert eder.............................skipped
+]]></failure>
+    </testcase>
+</testsuite>
